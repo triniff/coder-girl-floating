@@ -26,7 +26,7 @@ nav a {
 	margin-right: 20px;
 	color: #6D6E6C;
 }
-/*SECCION 1*/
+/*SECCION 1 - PARTICIPA*/
 #participa {
 	background-image: url("../img/home.jpg");
 	background-size: cover;
@@ -44,7 +44,7 @@ nav a {
 }
 #participa p{
 	font-size: 18px;
-	color: black;
+	color: #242423;
 	margin-bottom: 30px;
 }
 /*BOTONES*/
@@ -55,4 +55,31 @@ nav a {
 	padding: 7px 12px;
 	border: 1px solid blue;
 	border-radius: 7px 7px 7px 7px;
+}
+
+/*SECCION 2 - HACKATHON*/
+#hackathon {
+	background-color: yellow;
+	margin-top: 60px;
+	height: 480px;
+	color: #242423;
+}
+#hackathon img{
+	width: 600px;
+	padding: 70px 40px 70px 70px;
+	float: left;
+}
+
+#hackathon article{
+	padding-top: 50px;
+}
+#hackathon h2 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-weight: normal;
+	font-size: 25px;
+}
+#hackathon p {
+	margin-right: 20px;
 }
