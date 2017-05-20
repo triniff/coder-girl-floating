@@ -83,3 +83,53 @@ nav a {
 #hackathon p {
 	margin-right: 20px;
 }
+
+/*SECCION 3 - CONTACO*/
+#contacto{
+	margin-top: 150px;
+	color: #242423;
+	height: 700px;
+}
+#contacto img {
+	float: left;
+	padding: 0 70px;
+}
+#contacto article {
+	float: right;
+	width: 40%;
+}
+#contacto article h2{
+	font-weight: normal;
+	font-size: 40px;
+	padding-left: 10px;
+}
+#contacto article p {
+	margin: 0;
+}
+#contacto form {
+	margin-top: 30px;
+}
+#contacto input {
+	float: left;
+	width: 80%;
+	height: 30px;
+	margin-bottom: 15px;
+	border-radius: 5px 5px 5px 5px;
+	border: 1px solid #BCBDBA;	
+}
+#contacto input, #contacto textarea::-webkit-input-placeholder {
+	padding-left: 10px;
+}
+#contacto textarea{
+	width: 80%;
+	margin-bottom: 20px;
+}
+
+/*FOOTER*/
+footer {
+	background-color: #3FA2FF;
+	margin: 0;
+	padding: 19px;
+	color: white;
+	font-size: 14px;
+}
