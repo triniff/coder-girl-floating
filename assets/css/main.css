@@ -66,12 +66,12 @@ nav a {
 }
 #hackathon img{
 	width: 600px;
-	padding: 70px 40px 70px 70px;
+	padding: 70px;
 	float: left;
 }
 
 #hackathon article{
-	padding-top: 50px;
+	padding: 50px 40px;
 }
 #hackathon h2 {
 	text-align: center;
@@ -79,9 +79,6 @@ nav a {
 	margin-bottom: 10px;
 	font-weight: normal;
 	font-size: 25px;
-}
-#hackathon p {
-	margin-right: 20px;
 }
 
 /*SECCION 3 - CONTACO*/
